@@ -62,7 +62,7 @@ var vaccineMacro = {
       // "VEN00016", // 얀센
       // "VEN00017", // ????????
     ],
-    bounds: "https://m.place.naver.com/rest/vaccine?vaccineFilter=used&x=126.9015361&y=37.4858157&bounds=126.8770000%3B37.4560000%3B126.9260000%3B37.5170000",
+    bounds: "https://m.place.naver.com/rest/vaccine?vaccineFilter=used&x=127.0553329&y=37.2426137&bounds=126.9668415%3B37.175896%3B127.1438244%3B37.3092724",
     // bounds: "126.8770000%3B37.4560000%3B126.9260000%3B37.5170000",
     // bounds: "126.8770000;37.4560000;126.9260000;37.5170000",
     // sampleOrganizations: [{
